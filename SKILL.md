@@ -1,11 +1,9 @@
 ---
 name: fourfold-forgiveness-path
-description: 'Guide individuals through Desmond Tutu''s four-step process for forgiveness:
-  Tell the Story, Name the Hurt, Grant Forgiveness, and Renew or Release the Relationship.
-  Transform resentment into freedom.'
+description: 'Guide individuals through Desmond Tutu''s four-step process for forgiveness: Tell the Story, Name the Hurt, Grant Forgiveness, and Renew or Release the Relationship. Transform resentment into freedom.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - fourfold-forgiveness-path
